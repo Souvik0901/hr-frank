@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hr-frank
+- 👋 Hi, I’m @Souvik0901
 - 👀 I’m interested in Problem Solving and Web Dev little bit.
 - 🌱 I’m currently learning Nextjs and OOP's in java.
 - 💞️ I’m looking to collaborate on ...
